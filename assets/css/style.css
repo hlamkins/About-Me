@@ -1,0 +1,19 @@
+.navbar {
+    font-family: 'Sansita Swashed', cursive;
+    font-size: larger;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.footer {
+    font-family: 'Sansita Swashed', cursive;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: turquoise;
+    color: black;
+    text-align: center;
+}
