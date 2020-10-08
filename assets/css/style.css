@@ -1,6 +1,10 @@
+body {
+    background-color: lightseagreen;
+}
+
 .navbar {
     font-family: 'Sansita Swashed', cursive;
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 label {
@@ -13,6 +17,15 @@ label {
     font-weight: bold;
 }
 
+h1 {
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 100px;
+}
+
+p { 
+    font-family: 'Sansita Swashed', cursive;
+    font-size: larger;
+}
 .btn {
     background-color: turquoise;
     color: black;
