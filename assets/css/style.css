@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(121, 238, 232);
+    background-color: turquoise;
 }
 
 .navbar {
@@ -7,6 +7,7 @@ body {
     font-size: xx-large;
 }
 
+/*font for box labels*/
 label {
     font-family: Optima, sans-serif;
     font-size: x-large;
