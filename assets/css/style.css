@@ -1,5 +1,5 @@
 body {
-    background-color: lightseagreen;
+    background-color: rgb(121, 238, 232);
 }
 
 .navbar {
@@ -38,7 +38,7 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: turquoise;
+    background-color: teal;
     color: black;
     text-align: center;
 }
