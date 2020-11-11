@@ -24,8 +24,9 @@ p {
 	font-size: larger;
 }
 .btn {
-	background-color: turquoise;
+	background-color: rgb(58, 138, 241);
 	color: black;
+	border-color: black;
 }
 
 .footer {
@@ -37,4 +38,8 @@ p {
 	background-color: rgb(58, 138, 241);
 	color: black;
 	text-align: center;
+}
+
+.fab {
+	color: black;
 }
