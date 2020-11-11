@@ -1,45 +1,44 @@
 body {
-    background-color: turquoise;
+	background-color: turquoise;
 }
 
 .navbar {
-    font-family: 'Sansita Swashed', cursive;
-    font-size: xx-large;
+	font-family: 'Sansita Swashed', cursive;
+	font-size: xx-large;
 }
 
 /*font for box labels*/
 label {
-    font-family: Optima, sans-serif;
-    font-size: x-large;
-    font-weight: 500;
+	font-family: Optima, sans-serif;
+	font-size: x-large;
+	font-weight: 500;
 }
 
 .active {
-    font-weight: bold;
+	font-weight: bold;
 }
 
 h1 {
-    font-family: 'Sansita Swashed', cursive;
-    font-size: 100px;
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 100px;
 }
 
-p { 
-    font-family: 'Sansita Swashed', cursive;
-    font-size: larger;
+p {
+	font-family: 'Sansita Swashed', cursive;
+	font-size: larger;
 }
 .btn {
-    background-color: turquoise;
-    color: black;
-
+	background-color: turquoise;
+	color: black;
 }
 
 .footer {
-    font-family: 'Sansita Swashed', cursive;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: teal;
-    color: black;
-    text-align: center;
+	font-family: 'Sansita Swashed', cursive;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: teal;
+	color: black;
+	text-align: center;
 }
