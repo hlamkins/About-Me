@@ -24,7 +24,7 @@ p {
 	font-size: larger;
 }
 .btn {
-	background-color: rgb(58, 138, 241);
+	background-color: rgb(117, 169, 236);
 	color: black;
 	border-color: black;
 }
@@ -35,11 +35,12 @@ p {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	background-color: rgb(58, 138, 241);
+	background-color: rgb(117, 169, 236);
 	color: black;
 	text-align: center;
 }
 
 .fab {
 	color: black;
+	font-size: larger;
 }
