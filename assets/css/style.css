@@ -1,6 +1,6 @@
 .navbar {
 	font-family: 'Sansita Swashed', cursive;
-	font-size: xx-large;
+	font-size: x-large;
 }
 
 /*font for box labels*/
@@ -16,7 +16,7 @@ label {
 
 h1 {
 	font-family: 'Sansita Swashed', cursive;
-	font-size: 100px;
+	font-size: 50px;
 }
 
 p {
@@ -27,6 +27,7 @@ p {
 	background-color: rgb(117, 169, 236);
 	color: black;
 	border-color: black;
+	font-family: 'Sansita Swashed', cursive;
 }
 
 .footer {
@@ -43,4 +44,12 @@ p {
 .fab {
 	color: black;
 	font-size: larger;
+}
+
+h6 {
+	font-family: 'Sansita Swashed', cursive;
+}
+
+label {
+	font-family: 'Sansita Swashed', cursive;
 }
