@@ -1,11 +1,12 @@
 .navbar {
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Nunito', sans-serif;
 	font-size: x-large;
+	font-weight: 200;
 }
 
 /*font for box labels*/
 label {
-	font-family: Optima, sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-size: x-large;
 	font-weight: 500;
 }
@@ -15,23 +16,23 @@ label {
 }
 
 h1 {
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Nunito', sans-serif;
 	font-size: 50px;
 }
 
 p {
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Nunito', sans-serif;
 	font-size: larger;
 }
 .btn {
 	background-color: rgb(117, 169, 236);
 	color: black;
 	border-color: black;
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Nunito', sans-serif;
 }
 
 .footer {
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Nunito', sans-serif;
 	position: fixed;
 	left: 0;
 	bottom: 0;
@@ -46,10 +47,11 @@ p {
 	font-size: larger;
 }
 
-h6 {
-	font-family: 'Sansita Swashed', cursive;
+h6,
+h5 {
+	font-family: 'Nunito', sans-serif;
 }
 
 label {
-	font-family: 'Sansita Swashed', cursive;
+	font-family: 'Nunito', sans-serif;
 }
